@@ -1,0 +1,59 @@
+{
+  "biomes": {
+    "cold_ocean": {
+      "fog_identifier": "alien:cold_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_cold_ocean": {
+      "fog_identifier": "alien:deep_cold_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_frozen_ocean": {
+      "fog_identifier": "alien:deep_frozen_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_lukewarm_ocean": {
+      "fog_identifier": "alien:deep_lukewarm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_ocean": {
+      "fog_identifier": "alien:deep_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_warm_ocean": {
+      "fog_identifier": "alien:deep_warm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "frozen_ocean": {
+      "fog_identifier": "alien:frozen_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "frozen_river": {
+      "fog_identifier": "alien:frozen_river",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "lukewarm_ocean": {
+      "fog_identifier": "alien:lukewarm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "ocean": {
+      "fog_identifier": "alien:ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "river": {
+      "fog_identifier": "alien:river",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    }
+  }
+}
