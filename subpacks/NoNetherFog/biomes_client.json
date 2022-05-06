@@ -1,0 +1,29 @@
+{
+	"biomes": {
+		"basalt_deltas": {
+			"fog_identifier": "alien:basalt_deltas",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"crimson_forest": {
+			"fog_identifier": "alien:crimson_forest",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"hell": {
+			"fog_identifier": "alien:hell",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"soulsand_valley": {
+			"fog_identifier": "alien:soulsand_valley",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"warped_forest": {
+			"fog_identifier": "alien:warped_forest",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		}
+	}
+}

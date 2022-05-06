@@ -26,5 +26,22 @@
                 0
             ]
         }
-    ]
+	],
+	"subpacks": [
+		{
+			"folder_name": "NoNetherFog",
+			"name": "No Nether fog",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "NoWaterFog",
+			"name": "No Water fog",
+			"memory_tier": 2
+		},
+		{
+			"folder_name": "All",
+			"name": "No Nether + no water fog",
+			"memory_tier": 3
+		}
+	]
 }
