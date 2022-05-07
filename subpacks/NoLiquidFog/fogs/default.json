@@ -24,16 +24,16 @@
           "render_distance_type": "render"
         },
         "lava": {
-          "fog_start": 0.0,
-          "fog_end": 0.64,
+          "fog_start": 1.0,
+          "fog_end": 1.0,
           "fog_color": "#991A00",
-          "render_distance_type": "fixed"
+          "render_distance_type": "render"
         },
         "lava_resistance": {
-          "fog_start": 2.0,
-          "fog_end": 4.0,
+          "fog_start": 1.0,
+          "fog_end": 1.0,
           "fog_color": "#991A00",
-          "render_distance_type": "fixed"
+          "render_distance_type": "render"
         }
       }
     }
