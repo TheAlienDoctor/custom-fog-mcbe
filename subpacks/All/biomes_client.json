@@ -1,0 +1,89 @@
+{
+  "biomes": {
+    "default": {
+      "water_surface_color": "#44AFF5",
+      "water_surface_transparency": 0.65,
+      "fog_identifier": "alien:default_fog"
+    },
+    "cold_ocean": {
+      "fog_identifier": "alien:cold_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_cold_ocean": {
+      "fog_identifier": "alien:deep_cold_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_frozen_ocean": {
+      "fog_identifier": "alien:deep_frozen_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_lukewarm_ocean": {
+      "fog_identifier": "alien:deep_lukewarm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_ocean": {
+      "fog_identifier": "alien:deep_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "deep_warm_ocean": {
+      "fog_identifier": "alien:deep_warm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "frozen_ocean": {
+      "fog_identifier": "alien:frozen_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "frozen_river": {
+      "fog_identifier": "alien:frozen_river",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "lukewarm_ocean": {
+      "fog_identifier": "alien:lukewarm_ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "ocean": {
+      "fog_identifier": "alien:ocean",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "river": {
+      "fog_identifier": "alien:river",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+		"basalt_deltas": {
+			"fog_identifier": "alien:basalt_deltas",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"crimson_forest": {
+			"fog_identifier": "alien:crimson_forest",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"hell": {
+			"fog_identifier": "alien:hell",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"soulsand_valley": {
+			"fog_identifier": "alien:soulsand_valley",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		},
+		"warped_forest": {
+			"fog_identifier": "alien:warped_forest",
+			"remove_all_prior_fog": false,
+			"inherit_from_prior_fog": false
+		}
+  }
+}

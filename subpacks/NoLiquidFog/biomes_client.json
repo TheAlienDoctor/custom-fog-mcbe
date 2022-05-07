@@ -1,5 +1,10 @@
 {
   "biomes": {
+    "default": {
+      "water_surface_color": "#44AFF5",
+      "water_surface_transparency": 0.65,
+      "fog_identifier": "alien:default_fog"
+    },
     "cold_ocean": {
       "fog_identifier": "alien:cold_ocean",
       "remove_all_prior_fog": false,

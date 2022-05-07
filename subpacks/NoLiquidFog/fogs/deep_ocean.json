@@ -2,13 +2,13 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "minecraft:fog_lukewarm_ocean"
+      "identifier": "alien:fog_deep_ocean"
     },
     "distance": {
       "water": {
         "fog_start": 1.0,
         "fog_end": 1.0,
-        "fog_color": "#0a74c4",
+        "fog_color": "#1463a5",
         "render_distance_type": "render"
       }
     }
