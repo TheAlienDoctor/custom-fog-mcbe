@@ -1,13 +1,13 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "§9Allows you to customise fog §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
-        "name": "§1Alien's §eCustom fog §4(V1.0.0)",
+        "description": "§9Allows you to customise fog §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1 §r",
+        "name": "§1Alien's §eCustom fog §4(V1.0.1) §r",
         "uuid": "d71cf5b9-7c51-4043-9f98-864b4672c235",
         "version": [
             1,
             0,
-            0
+            1
         ],
         "min_engine_version": [
             1,
@@ -17,13 +17,13 @@
     },
     "modules": [
         {
-            "description": "§9Allows you to customise fog §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+            "description": "§9Allows you to customise fog §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1 §r",
             "type": "resources",
             "uuid": "f27d0873-7443-4f57-b96b-b35134365b10",
             "version": [
                 1,
                 0,
-                0
+                1
             ]
         }
 	],
