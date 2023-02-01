@@ -1,31 +1,31 @@
 ﻿{
-    "format_version": 2,
-    "header": {
+	"format_version": 2,
+	"header": {
 		"description": "§rAllows you to customise Nether and underwater fog. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
-        "name": "§1Alien's §eCustom fog §4(V1.0.2) §r",
-        "uuid": "d71cf5b9-7c51-4043-9f98-864b4672c235",
-        "version": [
-            1,
-            0,
-            2
-        ],
-        "min_engine_version": [
-            1,
-            18,
-            0
-        ]
-    },
-    "modules": [
-        {
-		"description": "§rAllows you to customise Nether and underwater fog. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
-            "type": "resources",
-            "uuid": "f27d0873-7443-4f57-b96b-b35134365b10",
-            "version": [
-                1,
-                0,
-                2
-            ]
-        }
+		"name": "§1§lAlien's§r §eCustom Fog §4(BP/RP-V1.0.2)§r",
+		"uuid": "d71cf5b9-7c51-4043-9f98-864b4672c235",
+		"version": [
+			1,
+			0,
+			2
+		],
+		"min_engine_version": [
+			1,
+			18,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "§rAllows you to customise Nether and underwater fog. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
+			"type": "resources",
+			"uuid": "f27d0873-7443-4f57-b96b-b35134365b10",
+			"version": [
+				1,
+				0,
+				2
+			]
+		}
 	],
 	"subpacks": [
 		{
@@ -36,15 +36,15 @@
 		{
 			"folder_name": "NoLiquidFog",
 			"name": "No water or lava fog",
-			"memory_tier": 2
+			"memory_tier": 1
 		},
 		{
 			"folder_name": "All",
 			"name": "No Nether + no liquid fog",
-			"memory_tier": 3
+			"memory_tier": 1
 		}
 	],
-	 "metadata": {
+	"metadata": {
 		"authors": [
 			"TheAlienDoctor"
 		],
